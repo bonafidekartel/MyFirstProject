@@ -25,3 +25,5 @@ Thumbs.db
 *.d.ts
 tsconfig.tsbuildinfo
 *.d.ts.map
+# Linux Python virtual environment
+.venv-linux/
